@@ -1,4 +1,4 @@
 traefik:latest
 nacos/nacos-server:latest
 redis:latest
-Postgres:latest
+postgres:latest
