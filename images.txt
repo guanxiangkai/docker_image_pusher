@@ -2,3 +2,4 @@ traefik:latest
 nacos/nacos-server:latest
 redis:latest
 postgres:latest
+mysql:latest
