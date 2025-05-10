@@ -1,2 +1,3 @@
 redis:latest
 postgres:latest
+zlmediakit/zlmediakit:master
